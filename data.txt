@@ -1,0 +1,157 @@
+Helligkeit: 907.1029700081094 Lumen
+Temperatur: 16.35°C
+Helligkeit: 786.6149556617204 Lumen
+Temperatur: 20.72°C
+Helligkeit: 856.3260175173668 Lumen
+Temperatur: 17.21°C
+Helligkeit: 779.2252543705572 Lumen
+Temperatur: 14.76°C
+Helligkeit: 966.4197073559371 Lumen
+Temperatur: 12.54°C
+Helligkeit: 671.4266917172561 Lumen
+Temperatur: 15.88°C
+Helligkeit: 932.7951924496346 Lumen
+Temperatur: 16.19°C
+Helligkeit: 814.9930186721344 Lumen
+Temperatur: 14.04°C
+Helligkeit: 512.5525488668014 Lumen
+Luftfeuchtigkeit: 67%
+Temperatur: 14.67°C
+Helligkeit: 606.1110313916555 Lumen
+Temperatur: 18.34°C
+Luftfeuchtigkeit: 67%
+Helligkeit: 672.017961995823 Lumen
+Luftfeuchtigkeit: 67%
+Temperatur: 16.93°C
+Helligkeit: 737.5427391759745 Lumen
+Temperatur: 19.04°C
+Luftfeuchtigkeit: 67%
+Helligkeit: 864.4655903361495 Lumen
+Luftfeuchtigkeit: 67%
+Temperatur: 16.14°C
+Helligkeit: 597.8110219338841 Lumen
+Temperatur: 15.79°C
+Luftfeuchtigkeit: 67%
+Helligkeit: 534.3742312308561 Lumen
+Luftfeuchtigkeit: 67%
+Temperatur: 19.44°C
+Helligkeit: 687.8822552281597 Lumen
+Temperatur: 25.93°C
+Luftfeuchtigkeit: 67%
+Helligkeit: 903.431221128189 Lumen
+Luftfeuchtigkeit: 49%
+Temperatur: 23.94°C
+Helligkeit: 940.18872150677 Lumen
+Temperatur: 24.61°C
+Luftfeuchtigkeit: 49%
+Helligkeit: 708.2135744610413 Lumen
+Luftfeuchtigkeit: 49%
+Temperatur: 23.29°C
+Temperatur: 25.47°C
+Temperatur: 23.25°C
+Temperatur: 23.59°C
+Temperatur: 25.71°C
+Temperatur: 24.03°C
+Temperatur: 18.74°C
+Temperatur: 17.82°C
+Temperatur: 13.42°C
+Luftfeuchtigkeit: 55%
+Temperatur: 12.84°C
+Luftfeuchtigkeit: 55%
+Helligkeit: 764.6443540319722 Lumen
+Helligkeit: 609.2747493627958 Lumen
+Temperatur: 12.13°C
+Luftfeuchtigkeit: 72%
+Luftfeuchtigkeit: 72%
+Temperatur: 12.39°C
+Luftfeuchtigkeit: 72%
+Temperatur: 14.74°C
+Luftfeuchtigkeit: 72%
+Temperatur: 12.69°C
+Luftfeuchtigkeit: 72%
+Temperatur: 15.37°C
+Luftfeuchtigkeit: 72%
+Temperatur: 15.55°C
+Luftfeuchtigkeit: 72%
+Temperatur: 16.0°C
+Luftfeuchtigkeit: 42%
+Temperatur: 18.2°C
+Luftfeuchtigkeit: 42%
+Temperatur: 15.88°C
+Luftfeuchtigkeit: 42%
+Temperatur: 16.8°C
+Luftfeuchtigkeit: 42%
+Temperatur: 17.81°C
+Luftfeuchtigkeit: 42%
+Temperatur: 24.06°C
+Luftfeuchtigkeit: 42%
+Temperatur: 24.17°C
+Luftfeuchtigkeit: 42%
+Temperatur: 23.75°C
+Luftfeuchtigkeit: 42%
+Temperatur: 25.2°C
+Luftfeuchtigkeit: 55%
+Temperatur: 21.3°C
+Luftfeuchtigkeit: 55%
+Temperatur: 24.06°C
+Luftfeuchtigkeit: 55%
+Temperatur: 21.33°C
+Luftfeuchtigkeit: 55%
+Temperatur: 25.9°C
+Luftfeuchtigkeit: 55%
+Temperatur: 21.08°C
+Luftfeuchtigkeit: 55%
+Temperatur: 16.69°C
+Luftfeuchtigkeit: 55%
+Temperatur: 20.0°C
+Luftfeuchtigkeit: 55%
+Temperatur: 19.89°C
+Luftfeuchtigkeit: 55%
+Temperatur: 22.27°C
+Luftfeuchtigkeit: 43%
+Temperatur: 14.81°C
+Luftfeuchtigkeit: 43%
+Temperatur: 15.4°C
+Luftfeuchtigkeit: 43%
+Temperatur: 15.15°C
+Luftfeuchtigkeit: 43%
+Temperatur: 14.86°C
+Luftfeuchtigkeit: 43%
+Temperatur: 14.38°C
+Luftfeuchtigkeit: 43%
+Temperatur: 15.79°C
+Luftfeuchtigkeit: 43%
+Temperatur: 15.47°C
+Luftfeuchtigkeit: 43%
+Temperatur: 15.77°C
+Luftfeuchtigkeit: 44%
+Temperatur: 19.01°C
+Luftfeuchtigkeit: 44%
+Temperatur: 16.29°C
+Luftfeuchtigkeit: 44%
+Temperatur: 15.07°C
+Luftfeuchtigkeit: 44%
+Temperatur: 18.21°C
+Luftfeuchtigkeit: 44%
+Temperatur: 25.09°C
+Luftfeuchtigkeit: 44%
+Temperatur: 24.31°C
+Luftfeuchtigkeit: 44%
+Temperatur: 23.53°C
+Luftfeuchtigkeit: 44%
+Temperatur: 24.85°C
+Luftfeuchtigkeit: 63%
+Temperatur: 14.3°C
+Luftfeuchtigkeit: 76%
+Temperatur: 12.88°C
+Temperatur: 12.31°C
+Temperatur: 13.79°C
+Temperatur: 15.63°C
+Temperatur: 12.02°C
+Temperatur: 17.48°C
+Temperatur: 16.15°C
+Temperatur: 18.3°C
+Temperatur: 17.76°C
+Temperatur: 19.73°C
+Temperatur: 17.35°C
+Temperatur: 25.72°C
